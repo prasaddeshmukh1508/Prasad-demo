@@ -1,3 +1,10 @@
-p{
-    color:red;
-}
+<style>
+   
+colored-paragraph {
+        color: red; 
+    }
+</style>
+
+<p class="colored-paragraph">Hello guys....Prasad Deshmukh here....</p>
+
+
